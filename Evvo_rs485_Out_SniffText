@@ -1,0 +1,60 @@
+
+Listening on COM23 @ 9600 for 20s...
+
+id  3 REQ  fn3 addr 0 x36
+id  3 RESP fn3 36 regs -> [2, 0, 0, 0, 0, 0, 6076, 526, 6751, 218, 320, 148, 457, 13, 5004, 2351, 657, 2325, 658, 2351, 663, 1, 8864, 0, 13290, 8595, 652, 40, 52, 6949, 6058, 6734, 60, 0, 1, 0]
+id 11 REQ  fn3 addr 99 x22
+id 11 REQ  fn3 addr 99 x22
+id 12 REQ  fn3 addr 99 x22
+id  3 WRITE reg 36864 = 100
+id  3 WRITE reg 36864 = 100
+id 12 REQ  fn3 addr 99 x22
+id 13 REQ  fn3 addr 99 x22
+id 13 REQ  fn3 addr 99 x22
+id 14 REQ  fn3 addr 99 x22
+id 14 REQ  fn3 addr 99 x22
+id  3 REQ  fn3 addr 0 x36
+id  3 RESP fn3 36 regs -> [2, 0, 0, 0, 0, 0, 6089, 523, 6677, 220, 319, 147, 456, 1, 5003, 2358, 657, 2328, 659, 2354, 663, 1, 8864, 0, 13290, 8596, 652, 40, 52, 6877, 6078, 6660, 60, 0, 1, 0]
+id  3 WRITE reg 36864 = 100
+id  3 WRITE reg 36864 = 100
+id  1 REQ  fn3 addr 0 x36
+id  1 REQ  fn3 addr 0 x36
+id  2 REQ  fn3 addr 0 x36
+id  2 REQ  fn3 addr 0 x36
+id  3 REQ  fn3 addr 0 x36
+id  3 RESP fn3 36 regs -> [2, 0, 0, 0, 0, 0, 6093, 522, 6695, 222, 319, 147, 456, 13, 5003, 2356, 655, 2325, 656, 2353, 660, 1, 8864, 0, 13290, 8597, 652, 39, 52, 6895, 6078, 6675, 60, 0, 1, 0]
+id 11 REQ  fn3 addr 99 x22
+id  3 WRITE reg 36864 = 100
+id  3 WRITE reg 36864 = 100
+id 11 REQ  fn3 addr 99 x22
+id 12 REQ  fn3 addr 99 x22
+id 12 REQ  fn3 addr 99 x22
+
+
+id  3 REQ  fn3 addr 0 x36
+id  3 RESP fn3 36 regs -> [2, 0, 0, 0, 0, 0, 6024, 781, 6693, 327, 471, 220, 677, 65529, 4993, 2359, 969, 2335, 972, 2353, 977, 1, 8860, 0, 13290, 8153, 605, 42, 53, 6893, 6012, 6678, 60, 0, 1, 0]
+id  1 REQ  fn3 addr 0 x36
+id  1 REQ  fn3 addr 0 x36
+id  2 REQ  fn3 addr 0 x36
+id  3 WRITE reg 36864 = 100
+id  3 WRITE reg 36864 = 100
+id  2 REQ  fn3 addr 0 x36
+id  3 REQ  fn3 addr 0 x36
+id  3 RESP fn3 36 regs -> [2, 0, 0, 0, 0, 0, 6077, 776, 6749, 327, 472, 220, 677, 12, 4993, 2363, 965, 2344, 966, 2361, 970, 1, 8860, 0, 13290, 8154, 606, 42, 53, 6949, 6064, 6731, 60, 0, 1, 0]
+id 11 REQ  fn3 addr 99 x22
+id 11 REQ  fn3 addr 99 x22
+id 12 REQ  fn3 addr 99 x22
+id 12 REQ  fn3 addr 99 x22
+id  3 WRITE reg 36864 = 100
+id  3 WRITE reg 36864 = 100
+id 13 REQ  fn3 addr 99 x22
+id 13 REQ  fn3 addr 99 x22
+id 14 REQ  fn3 addr 99 x22
+id 14 REQ  fn3 addr 99 x22
+id  3 REQ  fn3 addr 0 x36
+id  3 RESP fn3 36 regs -> [2, 0, 0, 0, 0, 0, 6036, 779, 6766, 329, 470, 221, 677, 13, 4992, 2365, 964, 2342, 965, 2358, 969, 1, 8860, 0, 13290, 8156, 606, 43, 53, 6966, 6021, 6750, 60, 0, 1, 0]
+id  1 REQ  fn3 addr 0 x36
+id  3 WRITE reg 36864 = 100
+id  3 WRITE reg 36864 = 100
+id  1 REQ  fn3 addr 0 x36
+id  1 REQ  fn3 addr 0 x36
