@@ -216,3 +216,16 @@ Inverter colors (UI): Inv 1 teal, Inv 2 mint, Inv 3 purple. Chart tooltips show 
 2. If cards look empty but the chart has points, check stale window and that the API process is the **`backend/`** app (weather + latest GHI).
 3. `repair-ts` fixes derived `received_at` when older loads stamped load-time instead of raw receive time.
 4. Never commit `backend/.env` — only `.env.example` with placeholders.
+
+---
+
+## Field tools & site visit
+
+This repository also holds plant-visit materials and Modbus/EVVO capture utilities used during site work:
+
+- `evvo_decode.py`, `evvo_logger.py`, `modbus_sniff.py` — decode / log / sniff helpers
+- `SitetapFile/` — raw and combined capture samples
+- `HPCL_Green_Solar_Status_Report_V2.docx` / `.pdf` — status report documents
+- `data/docs/` — register map and analysis notes for the dashboard
+
+HPCL Green originally documented plant visit data, fetch codes, and observations; the live dashboard above builds on that telemetry pipeline.
